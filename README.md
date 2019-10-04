@@ -18,3 +18,4 @@
    - move all the config files into conf directory
   - after you can choose which database to config
   - you can compose your config object from multiple config files
+ - config files that not a part of a config group like db cannot bee overriden
