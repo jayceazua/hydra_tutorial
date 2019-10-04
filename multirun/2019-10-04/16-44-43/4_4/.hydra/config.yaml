@@ -1,0 +1,15 @@
+db:
+  driver: mysql
+  pass: secret
+  user: omry
+schema:
+  database: school
+  tables:
+  - fields:
+    - name: string
+    - class: int
+    name: exams
+ui:
+  windows:
+    create_db: true
+    view: true

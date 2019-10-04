@@ -1,0 +1,8 @@
+db:
+  driver: mysql
+  pass: secret
+  user: omry
+ui:
+  windows:
+    create_db: true
+    view: true

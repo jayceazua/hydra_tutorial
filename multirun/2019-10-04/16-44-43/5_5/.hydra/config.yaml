@@ -1,0 +1,16 @@
+db:
+  driver: postgresql
+  pass: drowssap
+  timeout: 10
+  user: postgre_user
+schema:
+  database: school
+  tables:
+  - fields:
+    - name: string
+    - class: int
+    name: exams
+ui:
+  windows:
+    create_db: true
+    view: true
