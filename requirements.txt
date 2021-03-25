@@ -3,6 +3,6 @@ hydra-core==0.9.0
 omegaconf==1.3.0
 pathlib2==2.3.5
 pycodestyle==2.5.0
-PyYAML==5.1.2
+PyYAML==5.4
 scandir==1.10.0
 six==1.12.0
